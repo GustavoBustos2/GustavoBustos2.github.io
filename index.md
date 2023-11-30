@@ -2,17 +2,23 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Mi primer portafolio elaborado en el curso de **Gesconvial**.
 
-[Link to another page](./another-page.html).
+En el que les moestrare los proyectos que he elaborado.
 
-There should be whitespace between paragraphs.
+[Facebook](./another-page.html).
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+[instagram](./another-page.html).
 
-# Header 1
+[Gmail](./another-page.html).
+
+
+
+# Registro Sismico
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+
+![imagen1](/ruta/a/la/imagen.jpg)
 
 ## Header 2
 
